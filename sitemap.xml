@@ -1,10 +1,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
+    <loc>https://quartz.jzhao.xyz/1c/1c</loc>
+    <lastmod>2025-10-24T07:42:00.000Z</lastmod>
+  </url><url>
     <loc>https://quartz.jzhao.xyz/Main</loc>
     <lastmod>2025-10-22T06:20:40.000Z</lastmod>
   </url><url>
+    <loc>https://quartz.jzhao.xyz/devices/devices</loc>
+    <lastmod>2025-10-24T07:42:00.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/evotor/evotor</loc>
+    <lastmod>2025-10-24T07:42:00.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/frontol/frontol</loc>
+    <lastmod>2025-10-24T07:42:00.000Z</lastmod>
+  </url><url>
     <loc>https://quartz.jzhao.xyz/</loc>
-    <lastmod>2025-10-23T08:39:00.000Z</lastmod>
+    <lastmod>2025-10-24T07:42:00.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/lb/lb</loc>
+    <lastmod>2025-10-24T07:42:00.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/lb/pamyatka_nastroyka</loc>
-    <lastmod>2025-10-23T08:39:00.000Z</lastmod>
+    <lastmod>2025-10-24T07:42:00.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/mark/mark</loc>
+    <lastmod>2025-10-24T07:42:00.000Z</lastmod>
   </url></urlset>
