@@ -13,7 +13,7 @@ jobs:
 
     steps:
       - name: Checkout site
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Clone wiki content
         run: |
@@ -21,7 +21,7 @@ jobs:
           git clone https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository_owner }}/cto-horizon-wiki.git content
 
       - name: Setup Node
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v6
         with:
           node-version: 22
           cache: npm
